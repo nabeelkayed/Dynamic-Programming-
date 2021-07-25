@@ -1,0 +1,5 @@
+﻿  Dynamic Programming (Baymax)1.cpp
+C:\Users\hp\source\repos\Dynamic Programming (Baymax)1\Dynamic Programming (Baymax)1.cpp(58,17): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hp\source\repos\Dynamic Programming (Baymax)1\Dynamic Programming (Baymax)1.cpp(85,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\hp\source\repos\Dynamic Programming (Baymax)1\Dynamic Programming (Baymax)1.cpp(91,20): warning C4018:  '<': signed/unsigned mismatch
+  Dynamic Programming (Baymax)1.vcxproj -> C:\Users\hp\source\repos\Dynamic Programming (Baymax)1\Debug\Dynamic Programming (Baymax)1.exe
